@@ -1,2 +1,2 @@
 # Chat
-Chat application using Quikbloc API
+Chat application using Quikblox API
